@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Todo4JuliApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Todo4JuliApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Todo4JuliApplication.class, args);
+    }
 
 }
